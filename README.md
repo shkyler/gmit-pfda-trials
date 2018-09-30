@@ -10,4 +10,4 @@ Week 02 folder contains all the data pertaining to the videos from week 2. I fol
 * histo.py - in this file I worked through the histogram plot explaes in the video - from stack exchange I learned how to set the axis limits (so visually compate the 2 distributions when side by side), also I played arpund with putting more that 2 sub plots on the plot together 
 * scatter.py - this is just a copy of the code that Ian presented - 'c' is the color of the marker, 's' is the size - so we can plot 4 dimensions on a 2d plot
 * sin.py - this is the sin and cos functions plotted on the same axis as per the video - I added a legend so we can tell them apart
-*powers.py - this is the powers plotted as per the video - as an extra I redid it for differnt value ranges and plotted them as sub plots
+* powers.py - this is the powers plotted as per the video - as an extra I redid it for differnt value ranges and plotted them as sub plots
