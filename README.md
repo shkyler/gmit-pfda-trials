@@ -11,3 +11,6 @@ Week 02 folder contains all the data pertaining to the videos from week 2. I fol
 * scatter.py - this is just a copy of the code that Ian presented - 'c' is the color of the marker, 's' is the size - so we can plot 4 dimensions on a 2d plot
 * sin.py - this is the sin and cos functions plotted on the same axis as per the video - I added a legend so we can tell them apart
 * powers.py - this is the powers plotted as per the video - as an extra I redid it for differnt value ranges and plotted them as sub plots
+
+## Week 3
+Watched all the Jupyter videos. I then did a sample plot in the window based on what was covered
