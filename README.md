@@ -13,4 +13,8 @@ Week 02 folder contains all the data pertaining to the videos from week 2. I fol
 * powers.py - this is the powers plotted as per the video - as an extra I redid it for differnt value ranges and plotted them as sub plots
 
 ## Week 3
-Watched all the Jupyter videos. I then did a sample plot in the window based on what was covered
+Watched all the Jupyter videos. I then did a sample plot in the window based on what was covered in the videos. 
+I then created some plots in a jupyter notebook called "Plotting Test.ipynb"
+
+## Week 4
+Watched all the videos, and created a notebook called "Numpy-intro.ipynb". I used this notebook to start looking at some of the basic functionality of the numpy.random function. This should help when I start the assignment.
