@@ -18,3 +18,6 @@ I then created some plots in a jupyter notebook called "Plotting Test.ipynb"
 
 ## Week 4
 Watched all the videos, and created a notebook called "Numpy-intro.ipynb". I used this notebook to start looking at some of the basic functionality of the numpy.random function. This should help when I start the assignment.
+
+## Week 05
+Watched all the videos, and created a notebook call "pandas.ipynb". I used this to work through the examples from the leture videos
