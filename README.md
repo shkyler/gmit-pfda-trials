@@ -27,3 +27,6 @@ I added a notebook to the FODA repo to cover both courses this week
 
 ## Week 07
 Watched all the videos on the time series, and created a notebook called "timeseries".ipynb. I used this to work through the examples from the lecture 
+
+## Week 08
+Watched the videos on bias. There was no new coding techniques so I didnt create a note book for myself
