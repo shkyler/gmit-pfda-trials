@@ -30,3 +30,6 @@ Watched all the videos on the time series, and created a notebook called "timese
 
 ## Week 08
 Watched the videos on bias. There was no new coding techniques so I didnt create a note book for myself
+
+## Week 09
+Watched the videos on sqlite. I worked through the examples for both modules using the sqlite_test.ipynb note book
